@@ -1,2 +1,2 @@
 "# recipes" 
-This project uses HTML demonstrate how to use HTML elements like heading tag i.e <h1>---<h3>, <p> tag, HTML list, image tag and links
+This project demonstrate how to use HTML elements like HTML heading, list, paragraph, and link to create web pages and how you can link from one page to another.
